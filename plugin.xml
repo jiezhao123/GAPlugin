@@ -4,7 +4,7 @@
     id="com.adobe.plugins.GAPluginZJ"
     version="2.1.1">
 
-    <name>GAPlugin</name>
+    <name>GAPluginZJ</name>
     
 	<description>
 		This plugin allows you to post usage information to your Google Analytics account.

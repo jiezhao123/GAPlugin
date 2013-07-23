@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.adobe.plugins.GAPluginASC"
-    version="2.2.2">
+    id="com.adobe.plugins.GAPluginASCABC"
+    version="2.2.3">
 
-    <name>GAPluginASC</name>
+    <name>GAPluginABC</name>
     
 	<description>
 		This plugin allows you to post usage information to your Google Analytics account.
